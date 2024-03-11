@@ -38,7 +38,7 @@ nav li {
 body {
     background: rgb(255,199,122);
     background: linear-gradient(159deg, rgba(255,199,122,1) 25%, rgb(255, 138, 177) 71%);
-    cursor: url('images/boba.png'), auto; 
+    cursor: url("https://www.simpleimageresizer.com/_uploads/photos/593b58d2/cute-axolotl-cursor_32x32.png"), url("http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif"), auto; 
 }
 
 .skip-link {
