@@ -41,6 +41,10 @@ body {
     cursor: url("https://www.simpleimageresizer.com/_uploads/photos/593b58d2/cute-axolotl-cursor_32x32.png"), url("http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif"), auto; 
 }
 
+a:hover {
+    cursor: url('https://www.simpleimageresizer.com/_uploads/photos/593b58d2/cute-axolotl-pointer_32x32.png'), auto;
+}
+
 .skip-link {
     position: absolute; 
     left: -1000px;
